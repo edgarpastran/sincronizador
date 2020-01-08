@@ -1,0 +1,314 @@
+22:08:49 -> -------------------------------------------------------------------------------
+22:08:49 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+22:08:49 -> -------------------------------------------------------------------------------
+22:08:49 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPRESA
+22:08:49 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPRESA
+22:08:49 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:50 -> OK: 1 nuevos registros insertados en el servidor
+22:08:50 -> OK: TOTAL: 1 nuevos registros insertados en el servidor
+
+22:08:50 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FAMILIA1
+22:08:50 -> INFO: Consultando en el servidor los registros insertados de la tabla FAMILIA1
+22:08:50 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:51 -> OK: 8 nuevos registros insertados en el servidor
+22:08:51 -> OK: TOTAL: 8 nuevos registros insertados en el servidor
+
+22:08:51 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+22:08:51 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+22:08:51 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:52 -> OK: 47 nuevos registros insertados en el servidor
+22:08:52 -> OK: TOTAL: 47 nuevos registros insertados en el servidor
+
+22:08:52 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPLEADOS
+22:08:52 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPLEADOS
+22:08:52 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:52 -> OK: 13 nuevos registros insertados en el servidor
+22:08:52 -> OK: TOTAL: 13 nuevos registros insertados en el servidor
+
+22:08:52 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CLIENTES
+22:08:52 -> INFO: Consultando en el servidor los registros insertados de la tabla CLIENTES
+22:08:52 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:53 -> OK: 14 nuevos registros insertados en el servidor
+22:08:53 -> OK: TOTAL: 14 nuevos registros insertados en el servidor
+
+22:08:53 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla PROVEEDOR
+22:08:53 -> INFO: Consultando en el servidor los registros insertados de la tabla PROVEEDOR
+22:08:53 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:53 -> OK: 15 nuevos registros insertados en el servidor
+22:08:53 -> OK: TOTAL: 15 nuevos registros insertados en el servidor
+
+22:08:53 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CONCEPTOS
+22:08:53 -> INFO: Consultando en el servidor los registros insertados de la tabla CONCEPTOS
+22:08:54 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:54 -> OK: 2 nuevos registros insertados en el servidor
+22:08:54 -> OK: TOTAL: 2 nuevos registros insertados en el servidor
+
+22:08:54 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FORPAG
+22:08:54 -> INFO: Consultando en el servidor los registros insertados de la tabla FORPAG
+22:08:54 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:54 -> OK: 3 nuevos registros insertados en el servidor
+22:08:54 -> OK: TOTAL: 3 nuevos registros insertados en el servidor
+
+22:08:54 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla SERIES
+22:08:54 -> INFO: Consultando en el servidor los registros insertados de la tabla SERIES
+22:08:54 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:08:54 -> OK: 4 nuevos registros insertados en el servidor
+22:08:54 -> OK: TOTAL: 4 nuevos registros insertados en el servidor
+
+22:08:54 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACCAB
+22:08:54 -> INFO: Consultando en el servidor los registros insertados de la tabla FACCAB
+22:08:54 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:09:00 -> OK: 500 nuevos registros insertados en el servidor
+22:09:05 -> OK: 500 nuevos registros insertados en el servidor
+22:09:10 -> OK: 500 nuevos registros insertados en el servidor
+22:09:14 -> OK: 500 nuevos registros insertados en el servidor
+22:09:18 -> OK: 500 nuevos registros insertados en el servidor
+22:09:23 -> OK: 500 nuevos registros insertados en el servidor
+22:09:26 -> OK: 500 nuevos registros insertados en el servidor
+22:09:30 -> OK: 500 nuevos registros insertados en el servidor
+22:09:34 -> OK: 500 nuevos registros insertados en el servidor
+22:09:39 -> OK: 500 nuevos registros insertados en el servidor
+22:09:44 -> OK: 500 nuevos registros insertados en el servidor
+22:09:47 -> OK: 500 nuevos registros insertados en el servidor
+22:09:52 -> OK: 500 nuevos registros insertados en el servidor
+22:09:56 -> OK: 500 nuevos registros insertados en el servidor
+22:10:00 -> OK: 500 nuevos registros insertados en el servidor
+22:10:04 -> OK: 500 nuevos registros insertados en el servidor
+22:10:09 -> OK: 500 nuevos registros insertados en el servidor
+22:10:13 -> OK: 500 nuevos registros insertados en el servidor
+22:10:18 -> OK: 500 nuevos registros insertados en el servidor
+22:10:22 -> OK: 500 nuevos registros insertados en el servidor
+22:10:26 -> OK: 500 nuevos registros insertados en el servidor
+22:10:30 -> OK: 500 nuevos registros insertados en el servidor
+22:10:35 -> OK: 500 nuevos registros insertados en el servidor
+22:10:40 -> OK: 500 nuevos registros insertados en el servidor
+22:10:45 -> OK: 500 nuevos registros insertados en el servidor
+22:10:50 -> OK: 500 nuevos registros insertados en el servidor
+22:10:55 -> OK: 500 nuevos registros insertados en el servidor
+22:11:00 -> OK: 500 nuevos registros insertados en el servidor
+22:11:04 -> OK: 500 nuevos registros insertados en el servidor
+22:11:09 -> OK: 500 nuevos registros insertados en el servidor
+22:11:13 -> OK: 500 nuevos registros insertados en el servidor
+22:11:17 -> OK: 500 nuevos registros insertados en el servidor
+22:11:21 -> OK: 500 nuevos registros insertados en el servidor
+22:11:26 -> OK: 500 nuevos registros insertados en el servidor
+22:11:31 -> OK: 500 nuevos registros insertados en el servidor
+22:11:35 -> OK: 500 nuevos registros insertados en el servidor
+22:11:40 -> OK: 500 nuevos registros insertados en el servidor
+22:11:45 -> OK: 500 nuevos registros insertados en el servidor
+22:11:49 -> OK: 500 nuevos registros insertados en el servidor
+22:11:54 -> OK: 500 nuevos registros insertados en el servidor
+22:11:58 -> OK: 500 nuevos registros insertados en el servidor
+22:12:03 -> OK: 500 nuevos registros insertados en el servidor
+22:12:08 -> OK: 500 nuevos registros insertados en el servidor
+22:12:12 -> OK: 500 nuevos registros insertados en el servidor
+22:12:16 -> OK: 500 nuevos registros insertados en el servidor
+22:12:21 -> OK: 500 nuevos registros insertados en el servidor
+22:12:25 -> OK: 500 nuevos registros insertados en el servidor
+22:12:29 -> OK: 500 nuevos registros insertados en el servidor
+22:12:33 -> OK: 500 nuevos registros insertados en el servidor
+22:12:39 -> OK: 500 nuevos registros insertados en el servidor
+22:12:45 -> OK: 500 nuevos registros insertados en el servidor
+22:12:50 -> OK: 500 nuevos registros insertados en el servidor
+22:12:55 -> OK: 500 nuevos registros insertados en el servidor
+22:13:00 -> OK: 500 nuevos registros insertados en el servidor
+22:13:05 -> OK: 500 nuevos registros insertados en el servidor
+22:13:12 -> OK: 500 nuevos registros insertados en el servidor
+22:13:17 -> OK: 500 nuevos registros insertados en el servidor
+22:13:24 -> OK: 500 nuevos registros insertados en el servidor
+22:13:29 -> OK: 500 nuevos registros insertados en el servidor
+22:13:34 -> OK: 500 nuevos registros insertados en el servidor
+22:13:39 -> OK: 500 nuevos registros insertados en el servidor
+22:13:44 -> OK: 500 nuevos registros insertados en el servidor
+22:13:49 -> OK: 500 nuevos registros insertados en el servidor
+22:13:53 -> OK: 500 nuevos registros insertados en el servidor
+22:13:58 -> OK: 500 nuevos registros insertados en el servidor
+22:14:03 -> OK: 500 nuevos registros insertados en el servidor
+22:14:08 -> OK: 500 nuevos registros insertados en el servidor
+22:14:13 -> OK: 500 nuevos registros insertados en el servidor
+22:14:18 -> OK: 500 nuevos registros insertados en el servidor
+22:14:23 -> OK: 500 nuevos registros insertados en el servidor
+22:14:28 -> OK: 500 nuevos registros insertados en el servidor
+22:14:32 -> OK: 500 nuevos registros insertados en el servidor
+22:14:37 -> OK: 500 nuevos registros insertados en el servidor
+22:14:42 -> OK: 500 nuevos registros insertados en el servidor
+22:14:46 -> OK: 500 nuevos registros insertados en el servidor
+22:14:51 -> OK: 500 nuevos registros insertados en el servidor
+22:14:56 -> OK: 500 nuevos registros insertados en el servidor
+22:15:01 -> OK: 500 nuevos registros insertados en el servidor
+22:15:06 -> OK: 500 nuevos registros insertados en el servidor
+22:15:11 -> OK: 500 nuevos registros insertados en el servidor
+22:15:16 -> OK: 500 nuevos registros insertados en el servidor
+22:15:20 -> OK: 500 nuevos registros insertados en el servidor
+22:15:25 -> OK: 500 nuevos registros insertados en el servidor
+22:15:30 -> OK: 500 nuevos registros insertados en el servidor
+22:15:35 -> OK: 500 nuevos registros insertados en el servidor
+22:15:39 -> OK: 327 nuevos registros insertados en el servidor
+22:15:39 -> OK: TOTAL: 42827 nuevos registros insertados en el servidor
+
+22:15:39 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACLIN
+22:15:39 -> INFO: Consultando en el servidor los registros insertados de la tabla FACLIN
+22:15:39 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:15:43 -> OK: 500 nuevos registros insertados en el servidor
+22:15:46 -> OK: 500 nuevos registros insertados en el servidor
+22:15:50 -> OK: 500 nuevos registros insertados en el servidor
+22:15:53 -> OK: 500 nuevos registros insertados en el servidor
+22:15:57 -> OK: 500 nuevos registros insertados en el servidor
+22:16:00 -> OK: 500 nuevos registros insertados en el servidor
+22:16:03 -> OK: 500 nuevos registros insertados en el servidor
+22:16:06 -> OK: 500 nuevos registros insertados en el servidor
+22:16:10 -> OK: 500 nuevos registros insertados en el servidor
+22:16:12 -> OK: 500 nuevos registros insertados en el servidor
+22:16:16 -> OK: 500 nuevos registros insertados en el servidor
+22:16:19 -> OK: 500 nuevos registros insertados en el servidor
+22:16:22 -> OK: 500 nuevos registros insertados en el servidor
+22:16:25 -> OK: 500 nuevos registros insertados en el servidor
+22:16:28 -> OK: 500 nuevos registros insertados en el servidor
+22:16:31 -> OK: 500 nuevos registros insertados en el servidor
+22:16:34 -> OK: 500 nuevos registros insertados en el servidor
+22:16:37 -> OK: 500 nuevos registros insertados en el servidor
+22:16:41 -> OK: 500 nuevos registros insertados en el servidor
+22:16:44 -> OK: 500 nuevos registros insertados en el servidor
+22:16:47 -> OK: 500 nuevos registros insertados en el servidor
+22:16:50 -> OK: 500 nuevos registros insertados en el servidor
+22:16:53 -> OK: 500 nuevos registros insertados en el servidor
+22:16:56 -> OK: 500 nuevos registros insertados en el servidor
+22:16:59 -> OK: 500 nuevos registros insertados en el servidor
+22:17:02 -> OK: 500 nuevos registros insertados en el servidor
+22:17:05 -> OK: 500 nuevos registros insertados en el servidor
+22:17:09 -> OK: 500 nuevos registros insertados en el servidor
+22:17:12 -> OK: 500 nuevos registros insertados en el servidor
+22:17:16 -> OK: 500 nuevos registros insertados en el servidor
+22:17:19 -> OK: 500 nuevos registros insertados en el servidor
+22:17:22 -> OK: 500 nuevos registros insertados en el servidor
+22:17:26 -> OK: 500 nuevos registros insertados en el servidor
+22:17:29 -> OK: 500 nuevos registros insertados en el servidor
+22:17:32 -> OK: 500 nuevos registros insertados en el servidor
+22:17:35 -> OK: 500 nuevos registros insertados en el servidor
+22:17:39 -> OK: 500 nuevos registros insertados en el servidor
+22:17:42 -> OK: 500 nuevos registros insertados en el servidor
+22:17:46 -> OK: 500 nuevos registros insertados en el servidor
+22:17:49 -> OK: 500 nuevos registros insertados en el servidor
+22:17:52 -> OK: 500 nuevos registros insertados en el servidor
+22:17:56 -> OK: 500 nuevos registros insertados en el servidor
+22:17:59 -> OK: 500 nuevos registros insertados en el servidor
+22:18:02 -> OK: 500 nuevos registros insertados en el servidor
+22:18:05 -> OK: 500 nuevos registros insertados en el servidor
+22:18:09 -> OK: 500 nuevos registros insertados en el servidor
+22:18:12 -> OK: 500 nuevos registros insertados en el servidor
+22:18:16 -> OK: 500 nuevos registros insertados en el servidor
+22:18:19 -> OK: 500 nuevos registros insertados en el servidor
+22:18:22 -> OK: 500 nuevos registros insertados en el servidor
+22:18:26 -> OK: 500 nuevos registros insertados en el servidor
+22:18:29 -> OK: 500 nuevos registros insertados en el servidor
+22:18:32 -> OK: 500 nuevos registros insertados en el servidor
+22:18:36 -> OK: 500 nuevos registros insertados en el servidor
+22:18:40 -> OK: 500 nuevos registros insertados en el servidor
+22:18:43 -> OK: 500 nuevos registros insertados en el servidor
+22:18:46 -> OK: 500 nuevos registros insertados en el servidor
+22:18:50 -> OK: 500 nuevos registros insertados en el servidor
+22:18:53 -> OK: 500 nuevos registros insertados en el servidor
+22:18:57 -> OK: 500 nuevos registros insertados en el servidor
+22:19:00 -> OK: 500 nuevos registros insertados en el servidor
+22:19:04 -> OK: 500 nuevos registros insertados en el servidor
+22:19:07 -> OK: 500 nuevos registros insertados en el servidor
+22:19:11 -> OK: 500 nuevos registros insertados en el servidor
+22:19:14 -> OK: 500 nuevos registros insertados en el servidor
+22:19:18 -> OK: 500 nuevos registros insertados en el servidor
+22:19:21 -> OK: 500 nuevos registros insertados en el servidor
+22:19:25 -> OK: 500 nuevos registros insertados en el servidor
+22:19:28 -> OK: 500 nuevos registros insertados en el servidor
+22:19:32 -> OK: 500 nuevos registros insertados en el servidor
+22:19:35 -> OK: 500 nuevos registros insertados en el servidor
+22:19:39 -> OK: 500 nuevos registros insertados en el servidor
+22:19:42 -> OK: 500 nuevos registros insertados en el servidor
+22:19:46 -> OK: 500 nuevos registros insertados en el servidor
+22:19:49 -> OK: 500 nuevos registros insertados en el servidor
+22:19:53 -> OK: 500 nuevos registros insertados en el servidor
+22:19:56 -> OK: 500 nuevos registros insertados en el servidor
+22:20:00 -> OK: 500 nuevos registros insertados en el servidor
+22:20:03 -> OK: 500 nuevos registros insertados en el servidor
+22:20:07 -> OK: 500 nuevos registros insertados en el servidor
+22:20:11 -> OK: 500 nuevos registros insertados en el servidor
+22:20:14 -> OK: 500 nuevos registros insertados en el servidor
+22:20:17 -> OK: 500 nuevos registros insertados en el servidor
+22:20:21 -> OK: 500 nuevos registros insertados en el servidor
+22:20:24 -> OK: 500 nuevos registros insertados en el servidor
+22:20:28 -> OK: 500 nuevos registros insertados en el servidor
+22:20:31 -> OK: 500 nuevos registros insertados en el servidor
+22:20:35 -> OK: 500 nuevos registros insertados en el servidor
+22:20:39 -> OK: 500 nuevos registros insertados en el servidor
+22:20:42 -> OK: 500 nuevos registros insertados en el servidor
+22:20:45 -> OK: 500 nuevos registros insertados en el servidor
+22:20:48 -> OK: 500 nuevos registros insertados en el servidor
+22:20:51 -> OK: 500 nuevos registros insertados en el servidor
+22:20:55 -> OK: 500 nuevos registros insertados en el servidor
+22:20:58 -> OK: 500 nuevos registros insertados en el servidor
+22:21:02 -> OK: 500 nuevos registros insertados en el servidor
+22:21:05 -> OK: 500 nuevos registros insertados en el servidor
+22:21:09 -> OK: 500 nuevos registros insertados en el servidor
+22:21:12 -> OK: 500 nuevos registros insertados en el servidor
+22:21:15 -> OK: 500 nuevos registros insertados en el servidor
+22:21:19 -> OK: 500 nuevos registros insertados en el servidor
+22:21:22 -> OK: 500 nuevos registros insertados en el servidor
+22:21:26 -> OK: 500 nuevos registros insertados en el servidor
+22:21:29 -> OK: 500 nuevos registros insertados en el servidor
+22:21:32 -> OK: 500 nuevos registros insertados en el servidor
+22:21:36 -> OK: 500 nuevos registros insertados en el servidor
+22:21:40 -> OK: 500 nuevos registros insertados en el servidor
+22:21:43 -> OK: 500 nuevos registros insertados en el servidor
+22:21:46 -> OK: 500 nuevos registros insertados en el servidor
+22:21:50 -> OK: 500 nuevos registros insertados en el servidor
+22:21:53 -> OK: 500 nuevos registros insertados en el servidor
+22:21:57 -> OK: 500 nuevos registros insertados en el servidor
+22:22:00 -> OK: 500 nuevos registros insertados en el servidor
+22:22:04 -> OK: 500 nuevos registros insertados en el servidor
+22:22:07 -> OK: 500 nuevos registros insertados en el servidor
+22:22:10 -> OK: 500 nuevos registros insertados en el servidor
+22:22:14 -> OK: 500 nuevos registros insertados en el servidor
+22:22:17 -> OK: 500 nuevos registros insertados en el servidor
+22:22:21 -> OK: 500 nuevos registros insertados en el servidor
+22:22:25 -> OK: 500 nuevos registros insertados en el servidor
+22:22:29 -> OK: 500 nuevos registros insertados en el servidor
+22:22:32 -> OK: 500 nuevos registros insertados en el servidor
+22:22:36 -> OK: 500 nuevos registros insertados en el servidor
+22:22:39 -> OK: 500 nuevos registros insertados en el servidor
+22:22:42 -> OK: 500 nuevos registros insertados en el servidor
+22:22:46 -> OK: 500 nuevos registros insertados en el servidor
+22:22:50 -> OK: 500 nuevos registros insertados en el servidor
+22:22:54 -> OK: 500 nuevos registros insertados en el servidor
+22:22:58 -> OK: 500 nuevos registros insertados en el servidor
+22:23:01 -> OK: 500 nuevos registros insertados en el servidor
+22:23:05 -> OK: 500 nuevos registros insertados en el servidor
+22:23:10 -> OK: 500 nuevos registros insertados en el servidor
+22:23:14 -> OK: 500 nuevos registros insertados en el servidor
+22:23:17 -> OK: 500 nuevos registros insertados en el servidor
+22:23:20 -> OK: 500 nuevos registros insertados en el servidor
+22:23:24 -> OK: 500 nuevos registros insertados en el servidor
+22:23:27 -> OK: 500 nuevos registros insertados en el servidor
+22:23:29 -> OK: 279 nuevos registros insertados en el servidor
+22:23:29 -> OK: TOTAL: 68779 nuevos registros insertados en el servidor
+
+22:23:29 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACPROC
+22:23:29 -> INFO: Consultando en el servidor los registros insertados de la tabla FACPROC
+22:23:29 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:23:32 -> OK: 500 nuevos registros insertados en el servidor
+22:23:35 -> OK: 500 nuevos registros insertados en el servidor
+22:23:39 -> OK: 500 nuevos registros insertados en el servidor
+22:23:39 -> OK: 156 nuevos registros insertados en el servidor
+22:23:39 -> OK: TOTAL: 1656 nuevos registros insertados en el servidor
+
+22:23:39 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACPROL
+22:23:39 -> INFO: Consultando en el servidor los registros insertados de la tabla FACPROL
+22:23:40 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+22:23:42 -> OK: 500 nuevos registros insertados en el servidor
+22:23:45 -> OK: 500 nuevos registros insertados en el servidor
+22:23:48 -> OK: 500 nuevos registros insertados en el servidor
+22:23:49 -> OK: 171 nuevos registros insertados en el servidor
+22:23:49 -> OK: TOTAL: 1671 nuevos registros insertados en el servidor
+
+22:23:49 -> -------------------------------------------------------------------------------
+22:23:49 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+22:23:49 -> -------------------------------------------------------------------------------
+
+

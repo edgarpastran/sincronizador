@@ -1,0 +1,60 @@
+18:55:07 -> -------------------------------------------------------------------------------
+18:55:07 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+18:55:07 -> -------------------------------------------------------------------------------
+18:55:07 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPRESA
+18:55:07 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPRESA
+18:55:08 -> ERROR: Connection refused: connect
+18:55:08 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:08 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FAMILIA1
+18:55:08 -> INFO: Consultando en el servidor los registros insertados de la tabla FAMILIA1
+18:55:09 -> ERROR: Connection refused: connect
+18:55:09 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:09 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+18:55:09 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+18:55:10 -> ERROR: Connection refused: connect
+18:55:10 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:10 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPLEADOS
+18:55:10 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPLEADOS
+18:55:11 -> ERROR: Connection refused: connect
+18:55:11 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:11 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CLIENTES
+18:55:11 -> INFO: Consultando en el servidor los registros insertados de la tabla CLIENTES
+18:55:12 -> ERROR: Connection refused: connect
+18:55:12 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:12 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla PROVEEDOR
+18:55:12 -> INFO: Consultando en el servidor los registros insertados de la tabla PROVEEDOR
+18:55:13 -> ERROR: Connection refused: connect
+18:55:13 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:13 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CONCEPTOS
+18:55:13 -> INFO: Consultando en el servidor los registros insertados de la tabla CONCEPTOS
+18:55:14 -> ERROR: Connection refused: connect
+18:55:14 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:14 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FORPAG
+18:55:14 -> INFO: Consultando en el servidor los registros insertados de la tabla FORPAG
+18:55:15 -> ERROR: Connection refused: connect
+18:55:15 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:15 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla SERIES
+18:55:15 -> INFO: Consultando en el servidor los registros insertados de la tabla SERIES
+18:55:16 -> ERROR: Connection refused: connect
+18:55:16 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:16 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACCAB
+18:55:16 -> INFO: Consultando en el servidor los registros insertados de la tabla FACCAB
+18:55:17 -> ERROR: Connection refused: connect
+18:55:17 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:17 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACLIN
+18:55:17 -> INFO: Consultando en el servidor los registros insertados de la tabla FACLIN
+18:55:18 -> ERROR: Connection refused: connect
+18:55:18 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+18:55:18 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACPROC
+18:55:18 -> INFO: Consultando en el servidor los registros insertados de la tabla FACPROC

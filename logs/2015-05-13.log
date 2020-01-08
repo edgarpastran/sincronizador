@@ -1,0 +1,384 @@
+09:11:28 -> INFO: Insertando registros de la tabla EMPRESA
+09:11:44 -> OK: 1 nuevos registros insertados
+09:11:45 -> OK: TOTAL: 1 nuevos registros insertados
+
+09:12:23 -> INFO: Insertando registros de la tabla EMPRESA
+09:12:23 -> OK: TOTAL: 0 nuevos registros insertados
+
+09:12:23 -> INFO: Insertando registros de la tabla FAMILIA1
+09:12:24 -> OK: 8 nuevos registros insertados
+09:12:24 -> OK: TOTAL: 8 nuevos registros insertados
+
+09:12:24 -> INFO: Insertando registros de la tabla ARTICULOS
+09:13:01 -> OK: 47 nuevos registros insertados
+09:13:01 -> OK: TOTAL: 47 nuevos registros insertados
+
+09:13:01 -> INFO: Insertando registros de la tabla EMPLEADOS
+09:13:03 -> OK: 13 nuevos registros insertados
+09:13:03 -> OK: TOTAL: 13 nuevos registros insertados
+
+09:13:03 -> INFO: Insertando registros de la tabla CLIENTES
+09:13:05 -> OK: 14 nuevos registros insertados
+09:13:05 -> OK: TOTAL: 14 nuevos registros insertados
+
+09:13:05 -> INFO: Insertando registros de la tabla PROVEEDOR
+09:13:06 -> OK: 15 nuevos registros insertados
+09:13:06 -> OK: TOTAL: 15 nuevos registros insertados
+
+09:13:06 -> INFO: Insertando registros de la tabla CONCEPTOS
+09:13:07 -> OK: 2 nuevos registros insertados
+09:13:07 -> OK: TOTAL: 2 nuevos registros insertados
+
+09:13:07 -> INFO: Insertando registros de la tabla FORPAG
+09:13:07 -> OK: 3 nuevos registros insertados
+09:13:07 -> OK: TOTAL: 3 nuevos registros insertados
+
+09:13:07 -> INFO: Insertando registros de la tabla SERIES
+09:13:08 -> OK: 4 nuevos registros insertados
+09:13:08 -> OK: TOTAL: 4 nuevos registros insertados
+
+09:13:08 -> INFO: Insertando registros de la tabla FACCAB
+09:16:08 -> ERROR: Error writing to server
+
+09:16:11 -> INFO: Insertando registros de la tabla FACLIN
+09:17:11 -> OK: 1000 nuevos registros insertados
+09:19:31 -> ERROR: Error writing to server
+
+09:19:31 -> INFO: Insertando registros de la tabla FACPROC
+09:19:54 -> ERROR: Connection timed out: connect
+
+09:19:55 -> INFO: Insertando registros de la tabla FACPROL
+09:20:08 -> ERROR: rostroperfecto.com.ve
+
+09:27:09 -> INFO: Insertando registros de la tabla EMPRESA
+09:27:11 -> OK: 1 nuevos registros insertados
+09:27:11 -> OK: TOTAL: 1 nuevos registros insertados
+
+09:27:11 -> INFO: Insertando registros de la tabla FAMILIA1
+09:27:12 -> OK: 8 nuevos registros insertados
+09:27:12 -> OK: TOTAL: 8 nuevos registros insertados
+
+09:27:12 -> INFO: Insertando registros de la tabla ARTICULOS
+09:27:18 -> OK: 47 nuevos registros insertados
+09:27:18 -> OK: TOTAL: 47 nuevos registros insertados
+
+09:27:18 -> INFO: Insertando registros de la tabla EMPLEADOS
+09:27:19 -> OK: 13 nuevos registros insertados
+09:27:19 -> OK: TOTAL: 13 nuevos registros insertados
+
+09:27:19 -> INFO: Insertando registros de la tabla CLIENTES
+09:27:21 -> OK: 14 nuevos registros insertados
+09:27:21 -> OK: TOTAL: 14 nuevos registros insertados
+
+09:27:21 -> INFO: Insertando registros de la tabla PROVEEDOR
+09:27:24 -> OK: 15 nuevos registros insertados
+09:27:24 -> OK: TOTAL: 15 nuevos registros insertados
+
+09:27:24 -> INFO: Insertando registros de la tabla CONCEPTOS
+09:27:25 -> OK: 2 nuevos registros insertados
+09:27:25 -> OK: TOTAL: 2 nuevos registros insertados
+
+09:27:25 -> INFO: Insertando registros de la tabla FORPAG
+09:27:25 -> OK: 3 nuevos registros insertados
+09:27:25 -> OK: TOTAL: 3 nuevos registros insertados
+
+09:27:25 -> INFO: Insertando registros de la tabla SERIES
+09:27:26 -> OK: 4 nuevos registros insertados
+09:27:26 -> OK: TOTAL: 4 nuevos registros insertados
+
+09:27:26 -> INFO: Insertando registros de la tabla FACCAB
+09:28:31 -> OK: 500 nuevos registros insertados
+09:31:10 -> ERROR: Connection timed out: connect
+
+09:31:11 -> INFO: Insertando registros de la tabla FACLIN
+09:31:33 -> ERROR: Connection timed out: connect
+
+09:31:33 -> INFO: Insertando registros de la tabla FACPROC
+09:31:55 -> ERROR: Connection timed out: connect
+
+09:31:55 -> INFO: Insertando registros de la tabla FACPROL
+09:32:17 -> ERROR: Connection timed out: connect
+
+11:32:17 -> INFO: Insertando registros de la tabla EMPRESA
+11:32:18 -> OK: 1 nuevos registros insertados
+11:32:18 -> OK: TOTAL: 1 nuevos registros insertados
+
+11:32:18 -> INFO: Insertando registros de la tabla FAMILIA1
+11:32:19 -> OK: 8 nuevos registros insertados
+11:32:19 -> OK: TOTAL: 8 nuevos registros insertados
+
+11:32:19 -> INFO: Insertando registros de la tabla ARTICULOS
+11:32:24 -> OK: 47 nuevos registros insertados
+11:32:24 -> OK: TOTAL: 47 nuevos registros insertados
+
+11:32:24 -> INFO: Insertando registros de la tabla EMPLEADOS
+11:32:26 -> OK: 13 nuevos registros insertados
+11:32:26 -> OK: TOTAL: 13 nuevos registros insertados
+
+11:32:26 -> INFO: Insertando registros de la tabla CLIENTES
+11:32:28 -> OK: 14 nuevos registros insertados
+11:32:28 -> OK: TOTAL: 14 nuevos registros insertados
+
+11:32:28 -> INFO: Insertando registros de la tabla PROVEEDOR
+11:32:30 -> OK: 15 nuevos registros insertados
+11:32:30 -> OK: TOTAL: 15 nuevos registros insertados
+
+11:32:30 -> INFO: Insertando registros de la tabla CONCEPTOS
+11:32:30 -> OK: 2 nuevos registros insertados
+11:32:30 -> OK: TOTAL: 2 nuevos registros insertados
+
+11:32:30 -> INFO: Insertando registros de la tabla FORPAG
+11:32:31 -> OK: 3 nuevos registros insertados
+11:32:31 -> OK: TOTAL: 3 nuevos registros insertados
+
+11:32:31 -> INFO: Insertando registros de la tabla SERIES
+11:32:31 -> OK: 4 nuevos registros insertados
+11:32:31 -> OK: TOTAL: 4 nuevos registros insertados
+
+11:32:31 -> INFO: Insertando registros de la tabla FACCAB
+11:33:40 -> OK: 500 nuevos registros insertados
+11:34:50 -> OK: 500 nuevos registros insertados
+11:36:06 -> OK: 500 nuevos registros insertados
+11:37:18 -> OK: 500 nuevos registros insertados
+11:38:43 -> OK: 500 nuevos registros insertados
+11:40:50 -> OK: 500 nuevos registros insertados
+11:42:04 -> OK: 500 nuevos registros insertados
+11:43:22 -> OK: 500 nuevos registros insertados
+11:45:01 -> OK: 500 nuevos registros insertados
+11:46:22 -> OK: 500 nuevos registros insertados
+11:47:55 -> OK: 500 nuevos registros insertados
+11:49:44 -> OK: 500 nuevos registros insertados
+11:50:53 -> OK: 500 nuevos registros insertados
+11:51:59 -> OK: 500 nuevos registros insertados
+11:53:18 -> OK: 500 nuevos registros insertados
+11:54:28 -> OK: 500 nuevos registros insertados
+11:55:36 -> OK: 500 nuevos registros insertados
+11:58:00 -> OK: 500 nuevos registros insertados
+12:01:43 -> OK: 500 nuevos registros insertados
+12:03:36 -> OK: 500 nuevos registros insertados
+12:04:58 -> OK: 500 nuevos registros insertados
+12:09:05 -> OK: 500 nuevos registros insertados
+12:10:29 -> OK: 500 nuevos registros insertados
+12:11:37 -> OK: 500 nuevos registros insertados
+12:12:43 -> OK: 500 nuevos registros insertados
+12:13:49 -> OK: 500 nuevos registros insertados
+12:15:13 -> OK: 500 nuevos registros insertados
+12:17:07 -> OK: 500 nuevos registros insertados
+12:18:15 -> OK: 500 nuevos registros insertados
+12:19:23 -> OK: 500 nuevos registros insertados
+12:20:29 -> OK: 500 nuevos registros insertados
+12:21:37 -> OK: 500 nuevos registros insertados
+12:22:46 -> OK: 500 nuevos registros insertados
+12:23:52 -> OK: 500 nuevos registros insertados
+12:24:58 -> OK: 500 nuevos registros insertados
+12:26:05 -> OK: 500 nuevos registros insertados
+12:27:17 -> OK: 500 nuevos registros insertados
+12:28:25 -> OK: 500 nuevos registros insertados
+12:29:38 -> OK: 500 nuevos registros insertados
+12:31:17 -> OK: 500 nuevos registros insertados
+12:32:29 -> OK: 500 nuevos registros insertados
+12:34:04 -> OK: 500 nuevos registros insertados
+12:35:21 -> OK: 500 nuevos registros insertados
+12:36:31 -> OK: 500 nuevos registros insertados
+12:37:37 -> OK: 500 nuevos registros insertados
+12:38:43 -> OK: 500 nuevos registros insertados
+12:39:58 -> OK: 500 nuevos registros insertados
+12:41:11 -> OK: 500 nuevos registros insertados
+12:42:46 -> OK: 500 nuevos registros insertados
+12:43:55 -> OK: 500 nuevos registros insertados
+12:45:02 -> OK: 500 nuevos registros insertados
+12:46:08 -> OK: 500 nuevos registros insertados
+12:47:16 -> OK: 500 nuevos registros insertados
+12:48:22 -> OK: 500 nuevos registros insertados
+12:49:31 -> OK: 500 nuevos registros insertados
+12:50:39 -> OK: 500 nuevos registros insertados
+12:51:46 -> OK: 500 nuevos registros insertados
+12:53:07 -> OK: 500 nuevos registros insertados
+12:54:13 -> OK: 500 nuevos registros insertados
+12:55:20 -> OK: 500 nuevos registros insertados
+12:56:26 -> OK: 500 nuevos registros insertados
+12:57:47 -> OK: 500 nuevos registros insertados
+12:58:56 -> OK: 500 nuevos registros insertados
+13:00:32 -> OK: 500 nuevos registros insertados
+13:01:49 -> OK: 500 nuevos registros insertados
+13:02:55 -> OK: 500 nuevos registros insertados
+13:04:00 -> OK: 500 nuevos registros insertados
+13:05:26 -> OK: 500 nuevos registros insertados
+13:06:32 -> OK: 500 nuevos registros insertados
+13:07:37 -> OK: 500 nuevos registros insertados
+13:08:44 -> OK: 500 nuevos registros insertados
+13:09:58 -> OK: 500 nuevos registros insertados
+13:11:15 -> OK: 500 nuevos registros insertados
+13:12:23 -> OK: 500 nuevos registros insertados
+13:13:49 -> OK: 500 nuevos registros insertados
+13:15:11 -> OK: 500 nuevos registros insertados
+13:16:23 -> OK: 500 nuevos registros insertados
+13:17:35 -> OK: 500 nuevos registros insertados
+13:18:42 -> OK: 500 nuevos registros insertados
+13:19:59 -> OK: 500 nuevos registros insertados
+13:21:07 -> OK: 500 nuevos registros insertados
+13:22:14 -> OK: 500 nuevos registros insertados
+13:23:27 -> OK: 500 nuevos registros insertados
+13:24:37 -> OK: 500 nuevos registros insertados
+13:27:14 -> OK: 500 nuevos registros insertados
+13:28:00 -> OK: 327 nuevos registros insertados
+13:28:00 -> OK: TOTAL: 42827 nuevos registros insertados
+
+13:28:00 -> INFO: Insertando registros de la tabla FACLIN
+13:28:29 -> OK: 500 nuevos registros insertados
+13:28:59 -> OK: 500 nuevos registros insertados
+13:29:33 -> OK: 500 nuevos registros insertados
+13:30:02 -> OK: 500 nuevos registros insertados
+13:30:32 -> OK: 500 nuevos registros insertados
+13:31:00 -> OK: 500 nuevos registros insertados
+13:35:58 -> OK: 500 nuevos registros insertados
+13:36:29 -> OK: 500 nuevos registros insertados
+13:38:18 -> OK: 500 nuevos registros insertados
+13:38:58 -> OK: 500 nuevos registros insertados
+13:39:31 -> OK: 500 nuevos registros insertados
+13:39:58 -> OK: 500 nuevos registros insertados
+13:40:37 -> OK: 500 nuevos registros insertados
+13:41:06 -> OK: 500 nuevos registros insertados
+13:41:34 -> OK: 500 nuevos registros insertados
+13:42:03 -> OK: 500 nuevos registros insertados
+13:42:39 -> OK: 500 nuevos registros insertados
+13:43:11 -> OK: 500 nuevos registros insertados
+13:43:45 -> OK: 500 nuevos registros insertados
+13:44:14 -> OK: 500 nuevos registros insertados
+13:44:43 -> OK: 500 nuevos registros insertados
+13:45:12 -> OK: 500 nuevos registros insertados
+13:45:46 -> OK: 500 nuevos registros insertados
+13:46:15 -> OK: 500 nuevos registros insertados
+13:46:45 -> OK: 500 nuevos registros insertados
+13:47:21 -> OK: 500 nuevos registros insertados
+13:47:49 -> OK: 500 nuevos registros insertados
+13:48:18 -> OK: 500 nuevos registros insertados
+13:48:45 -> OK: 500 nuevos registros insertados
+13:49:23 -> OK: 500 nuevos registros insertados
+13:49:53 -> OK: 500 nuevos registros insertados
+13:50:21 -> OK: 500 nuevos registros insertados
+13:50:57 -> OK: 500 nuevos registros insertados
+13:51:28 -> OK: 500 nuevos registros insertados
+13:51:59 -> OK: 500 nuevos registros insertados
+13:52:29 -> OK: 500 nuevos registros insertados
+13:52:59 -> OK: 500 nuevos registros insertados
+13:53:26 -> OK: 500 nuevos registros insertados
+13:53:56 -> OK: 500 nuevos registros insertados
+13:54:24 -> OK: 500 nuevos registros insertados
+13:54:51 -> OK: 500 nuevos registros insertados
+13:55:23 -> OK: 500 nuevos registros insertados
+13:55:51 -> OK: 500 nuevos registros insertados
+13:56:21 -> OK: 500 nuevos registros insertados
+13:56:51 -> OK: 500 nuevos registros insertados
+13:57:19 -> OK: 500 nuevos registros insertados
+13:57:57 -> OK: 500 nuevos registros insertados
+13:58:28 -> OK: 500 nuevos registros insertados
+13:58:58 -> OK: 500 nuevos registros insertados
+13:59:29 -> OK: 500 nuevos registros insertados
+14:00:08 -> OK: 500 nuevos registros insertados
+14:00:38 -> OK: 500 nuevos registros insertados
+14:01:59 -> OK: 500 nuevos registros insertados
+14:03:14 -> OK: 500 nuevos registros insertados
+14:04:30 -> OK: 500 nuevos registros insertados
+14:05:35 -> OK: 500 nuevos registros insertados
+14:06:28 -> OK: 500 nuevos registros insertados
+14:07:00 -> OK: 500 nuevos registros insertados
+14:07:29 -> OK: 500 nuevos registros insertados
+14:07:59 -> OK: 500 nuevos registros insertados
+14:08:28 -> OK: 500 nuevos registros insertados
+14:09:07 -> OK: 500 nuevos registros insertados
+14:09:50 -> OK: 500 nuevos registros insertados
+14:10:19 -> OK: 500 nuevos registros insertados
+14:10:51 -> OK: 500 nuevos registros insertados
+14:12:33 -> OK: 500 nuevos registros insertados
+14:13:36 -> ERROR: Error writing to server
+
+14:13:37 -> INFO: Insertando registros de la tabla FACPROC
+14:14:14 -> OK: 500 nuevos registros insertados
+14:15:07 -> OK: 500 nuevos registros insertados
+14:15:47 -> OK: 500 nuevos registros insertados
+14:16:14 -> OK: 156 nuevos registros insertados
+14:16:14 -> OK: TOTAL: 1656 nuevos registros insertados
+
+14:16:14 -> INFO: Insertando registros de la tabla FACPROL
+14:16:37 -> OK: 500 nuevos registros insertados
+14:16:55 -> OK: 500 nuevos registros insertados
+14:17:11 -> OK: 500 nuevos registros insertados
+14:17:17 -> OK: 171 nuevos registros insertados
+14:17:17 -> OK: TOTAL: 1671 nuevos registros insertados
+
+14:39:32 -> INFO: Insertando registros de la tabla FACLIN
+14:42:38 -> OK: 500 nuevos registros insertados
+14:44:07 -> OK: 500 nuevos registros insertados
+14:45:03 -> OK: 500 nuevos registros insertados
+14:45:49 -> OK: 500 nuevos registros insertados
+14:46:20 -> OK: 500 nuevos registros insertados
+14:47:54 -> OK: 500 nuevos registros insertados
+14:48:41 -> OK: 500 nuevos registros insertados
+14:49:21 -> OK: 500 nuevos registros insertados
+14:50:17 -> OK: 500 nuevos registros insertados
+14:50:58 -> OK: 500 nuevos registros insertados
+14:51:28 -> OK: 500 nuevos registros insertados
+14:52:00 -> OK: 500 nuevos registros insertados
+14:52:29 -> OK: 500 nuevos registros insertados
+14:53:17 -> OK: 500 nuevos registros insertados
+14:53:45 -> OK: 500 nuevos registros insertados
+14:54:18 -> OK: 500 nuevos registros insertados
+14:54:56 -> OK: 500 nuevos registros insertados
+14:55:27 -> OK: 500 nuevos registros insertados
+14:56:19 -> OK: 500 nuevos registros insertados
+14:56:50 -> OK: 500 nuevos registros insertados
+14:57:21 -> OK: 500 nuevos registros insertados
+14:57:52 -> OK: 500 nuevos registros insertados
+14:58:24 -> OK: 500 nuevos registros insertados
+14:58:58 -> OK: 500 nuevos registros insertados
+14:59:25 -> OK: 500 nuevos registros insertados
+14:59:54 -> OK: 500 nuevos registros insertados
+15:00:31 -> OK: 500 nuevos registros insertados
+15:01:02 -> OK: 500 nuevos registros insertados
+15:01:31 -> OK: 500 nuevos registros insertados
+15:02:00 -> OK: 500 nuevos registros insertados
+15:02:38 -> OK: 500 nuevos registros insertados
+15:03:18 -> OK: 500 nuevos registros insertados
+15:03:50 -> OK: 500 nuevos registros insertados
+15:04:19 -> OK: 500 nuevos registros insertados
+15:04:48 -> OK: 500 nuevos registros insertados
+15:05:20 -> OK: 500 nuevos registros insertados
+15:05:49 -> OK: 500 nuevos registros insertados
+15:06:21 -> OK: 500 nuevos registros insertados
+15:06:50 -> OK: 500 nuevos registros insertados
+15:07:27 -> OK: 500 nuevos registros insertados
+15:07:58 -> OK: 500 nuevos registros insertados
+15:08:27 -> OK: 500 nuevos registros insertados
+15:09:01 -> OK: 500 nuevos registros insertados
+15:09:40 -> OK: 500 nuevos registros insertados
+15:10:10 -> OK: 500 nuevos registros insertados
+15:10:48 -> OK: 500 nuevos registros insertados
+15:11:15 -> OK: 500 nuevos registros insertados
+15:11:44 -> OK: 500 nuevos registros insertados
+15:12:15 -> OK: 500 nuevos registros insertados
+15:12:45 -> OK: 500 nuevos registros insertados
+15:13:15 -> OK: 500 nuevos registros insertados
+15:14:03 -> OK: 500 nuevos registros insertados
+15:15:21 -> OK: 500 nuevos registros insertados
+15:17:27 -> OK: 500 nuevos registros insertados
+15:18:38 -> OK: 500 nuevos registros insertados
+15:19:07 -> OK: 500 nuevos registros insertados
+15:19:40 -> OK: 500 nuevos registros insertados
+15:20:10 -> OK: 500 nuevos registros insertados
+15:20:43 -> OK: 500 nuevos registros insertados
+15:21:14 -> OK: 500 nuevos registros insertados
+15:21:44 -> OK: 500 nuevos registros insertados
+15:28:10 -> OK: 500 nuevos registros insertados
+15:28:40 -> OK: 500 nuevos registros insertados
+15:30:18 -> OK: 500 nuevos registros insertados
+15:31:18 -> OK: 500 nuevos registros insertados
+15:32:02 -> OK: 500 nuevos registros insertados
+15:32:54 -> OK: 500 nuevos registros insertados
+15:33:54 -> OK: 500 nuevos registros insertados
+15:34:34 -> OK: 500 nuevos registros insertados
+15:36:02 -> OK: 500 nuevos registros insertados
+15:36:37 -> OK: 500 nuevos registros insertados
+15:36:44 -> OK: 77 nuevos registros insertados
+15:36:44 -> OK: TOTAL: 35779 nuevos registros insertados
+

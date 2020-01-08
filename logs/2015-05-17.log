@@ -1,0 +1,73 @@
+13:00:00 -> -------------------------------------------------------------------------------
+13:00:00 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS AUTOMATICO
+13:00:00 -> -------------------------------------------------------------------------------
+13:00:00 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPRESA
+13:00:00 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPRESA
+13:00:03 -> OK: TOTAL: 1 registros insertados en el servidor previamente
+13:00:03 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:03 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FAMILIA1
+13:00:03 -> INFO: Consultando en el servidor los registros insertados de la tabla FAMILIA1
+13:00:08 -> OK: TOTAL: 8 registros insertados en el servidor previamente
+13:00:08 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:08 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+13:00:08 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+13:00:13 -> OK: TOTAL: 47 registros insertados en el servidor previamente
+13:00:13 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:13 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPLEADOS
+13:00:13 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPLEADOS
+13:00:17 -> OK: TOTAL: 13 registros insertados en el servidor previamente
+13:00:17 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:17 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CLIENTES
+13:00:17 -> INFO: Consultando en el servidor los registros insertados de la tabla CLIENTES
+13:00:23 -> OK: TOTAL: 14 registros insertados en el servidor previamente
+13:00:23 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:23 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla PROVEEDOR
+13:00:23 -> INFO: Consultando en el servidor los registros insertados de la tabla PROVEEDOR
+13:00:27 -> OK: TOTAL: 15 registros insertados en el servidor previamente
+13:00:27 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:27 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla CONCEPTOS
+13:00:27 -> INFO: Consultando en el servidor los registros insertados de la tabla CONCEPTOS
+13:00:30 -> OK: TOTAL: 2 registros insertados en el servidor previamente
+13:00:30 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:30 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FORPAG
+13:00:30 -> INFO: Consultando en el servidor los registros insertados de la tabla FORPAG
+13:00:34 -> OK: TOTAL: 3 registros insertados en el servidor previamente
+13:00:34 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:34 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla SERIES
+13:00:34 -> INFO: Consultando en el servidor los registros insertados de la tabla SERIES
+13:00:39 -> OK: TOTAL: 4 registros insertados en el servidor previamente
+13:00:40 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:40 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACCAB
+13:00:40 -> INFO: Consultando en el servidor los registros insertados de la tabla FACCAB
+13:00:44 -> OK: TOTAL: 42827 registros insertados en el servidor previamente
+13:00:44 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:44 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACLIN
+13:00:44 -> INFO: Consultando en el servidor los registros insertados de la tabla FACLIN
+13:00:45 -> OK: TOTAL: 68877 registros insertados en el servidor previamente
+13:00:45 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:45 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACPROC
+13:00:45 -> INFO: Consultando en el servidor los registros insertados de la tabla FACPROC
+13:00:50 -> OK: TOTAL: 1656 registros insertados en el servidor previamente
+13:00:50 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:50 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FACPROL
+13:00:50 -> INFO: Consultando en el servidor los registros insertados de la tabla FACPROL
+13:00:56 -> OK: TOTAL: 1671 registros insertados en el servidor previamente
+13:00:56 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+13:00:56 -> -------------------------------------------------------------------------------
+13:00:56 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS AUTOMATICO
+13:00:56 -> -------------------------------------------------------------------------------
+
+

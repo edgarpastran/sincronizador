@@ -1,0 +1,87 @@
+23:23:53 -> -------------------------------------------------------------------------------
+23:23:53 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:23:53 -> -------------------------------------------------------------------------------
+23:23:53 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+23:23:53 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+23:23:54 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+23:23:55 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1048) Column 'codart' cannot be nullFall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'PRIMARY'46
+23:23:56 -> -------------------------------------------------------------------------------
+23:23:56 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:23:56 -> -------------------------------------------------------------------------------
+
+
+23:36:03 -> -------------------------------------------------------------------------------
+23:36:03 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:36:03 -> -------------------------------------------------------------------------------
+23:36:03 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+23:36:03 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+23:36:03 -> OK: TOTAL: 0 registros insertados en el servidor previamente
+23:36:04 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1048) Column 'codart' cannot be nullFall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'46
+23:36:04 -> -------------------------------------------------------------------------------
+23:36:04 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:36:04 -> -------------------------------------------------------------------------------
+
+
+23:43:12 -> -------------------------------------------------------------------------------
+23:43:12 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:43:12 -> -------------------------------------------------------------------------------
+23:43:12 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+23:43:12 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+23:43:12 -> OK: TOTAL: 46 registros insertados en el servidor previamente
+23:43:13 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1048) Column 'codart' cannot be null<br>Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>46
+23:43:13 -> -------------------------------------------------------------------------------
+23:43:13 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:43:13 -> -------------------------------------------------------------------------------
+
+
+23:43:46 -> -------------------------------------------------------------------------------
+23:43:46 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:43:46 -> -------------------------------------------------------------------------------
+23:43:46 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPRESA
+23:43:46 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPRESA
+23:43:46 -> OK: TOTAL: 1 registros insertados en el servidor previamente
+23:43:46 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>1
+23:43:46 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FAMILIA1
+23:43:46 -> INFO: Consultando en el servidor los registros insertados de la tabla FAMILIA1
+23:43:46 -> OK: TOTAL: 8 registros insertados en el servidor previamente
+23:43:46 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>8
+23:43:46 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+23:43:46 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+23:43:46 -> OK: TOTAL: 46 registros insertados en el servidor previamente
+23:43:46 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1048) Column 'codart' cannot be null<br>Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>46
+23:43:46 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPLEADOS
+23:43:46 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPLEADOS
+23:43:46 -> OK: TOTAL: 13 registros insertados en el servidor previamente
+23:43:46 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>13
+23:43:46 -> -------------------------------------------------------------------------------
+23:43:46 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:43:46 -> -------------------------------------------------------------------------------
+
+
+23:46:35 -> -------------------------------------------------------------------------------
+23:46:35 -> INFO: INICIO DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:46:35 -> -------------------------------------------------------------------------------
+23:46:35 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPRESA
+23:46:35 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPRESA
+23:46:36 -> OK: TOTAL: 1 registros insertados en el servidor previamente
+23:46:36 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+23:46:36 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla FAMILIA1
+23:46:36 -> INFO: Consultando en el servidor los registros insertados de la tabla FAMILIA1
+23:46:36 -> OK: TOTAL: 8 registros insertados en el servidor previamente
+23:46:37 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+23:46:37 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla ARTICULOS
+23:46:37 -> INFO: Consultando en el servidor los registros insertados de la tabla ARTICULOS
+23:46:37 -> OK: TOTAL: 46 registros insertados en el servidor previamente
+23:46:37 -> ERROR: Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1048) Column 'codart' cannot be null<br>Fall&oacute; la ejecuci&oacute;n de la sentencia en la tabla: (1062) Duplicate entry 'BRQ-03409' for key 'pk_articulos'<br>46
+23:46:37 -> INFO: Intentando insertar en el servidor nuevos registros de la tabla EMPLEADOS
+23:46:37 -> INFO: Consultando en el servidor los registros insertados de la tabla EMPLEADOS
+23:46:37 -> OK: TOTAL: 13 registros insertados en el servidor previamente
+23:46:37 -> OK: TOTAL: 0 nuevos registros insertados en el servidor
+
+23:46:37 -> -------------------------------------------------------------------------------
+23:46:37 -> INFO: FIN DE PROCESO DE SINCRONIZACION DE DATOS MANUAL
+23:46:37 -> -------------------------------------------------------------------------------
+
+
